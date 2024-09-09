@@ -1,0 +1,315 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #000;
+    font-weight: 100;
+}
+
+.back {
+    background: url('img/n1.jpg') ;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+.box1{
+    border: 4px yellow;
+    border-style: dashed;
+    display: inline-flex;
+    background-color: antiquewhite;
+    margin-right: 30%;
+    font-size: 30px;
+    font-weight: 100;
+    border-radius:0 0 40px 0 ;
+}
+
+.b1{
+    padding: 10px;
+    padding-right: 20px;
+    font-size: 15px;
+    font-weight: 140;
+
+}
+
+.o{
+    padding-left: 70px;
+}
+
+
+.box2{
+    border: 4px yellow;
+    border-style: dashed;
+    display: inline-flex;
+    background-color: antiquewhite;
+    font-size: 30px;
+    font-weight: 100;
+    border-radius:0 0 0 40px  ;
+}
+
+.oo{
+    padding-left: 25px;
+}
+
+
+.p{
+    width: 20%;
+    margin-left: 5px;
+    display: inline-block;
+    border: 1px yellow;
+    border-style: solid;
+    position: relative;
+    bottom: 20px;
+    
+   
+}
+
+.pp{
+    width: 8%;
+    margin-left: 45px;
+    border: 1px yellow;
+    border-style: solid;
+    position: relative;
+    bottom: 135px;
+    left: 280px;
+    
+  
+}
+
+.box5{
+    width: 10%;
+    border-right:0px ;
+    position: relative;
+    bottom: 100px;
+    left: 10px;
+    text-align: start;
+    
+}
+
+.ooo ,.bb{
+    
+    line-height: 50px; 
+}
+
+.bb button{
+    padding: 10px;
+    padding-right: 140px;
+    width: 200%;
+    font-size: 15px;
+    font-weight: 140;
+    text-transform: uppercase;
+    background: gold;
+    color: white;
+}
+
+.ooo button{
+    padding: 10px;
+    padding-right: 140px;
+    width: 200%;
+    font-size: 15px;
+    font-weight: 140;
+    text-transform: uppercase;
+    background: gray;
+    color: white;
+    
+}
+
+.box6{
+    border: 1px yellow;
+    
+    width: 8%;
+    position: relative;
+    bottom: 400px;
+    left: 88%;
+    z-index: 1;
+    
+
+}
+
+
+
+.o1{
+    padding: 8px;
+    width: 40%; 
+    text-transform: uppercase;
+    background: gray;
+   
+}
+
+.o2{
+    background: yellowgreen;
+    padding: 8px;
+    width: 40%; 
+    text-transform: uppercase;
+    background: gray;
+    
+}
+
+.o3{
+    background: greenyellow;
+    padding: 8px;
+    width: 40%; 
+    text-transform: uppercase;
+    background: gray;
+   
+}
+
+.o4{
+    background: palegreen;
+    padding: 8px;
+    width: 40%; 
+    text-transform: uppercase;
+    background: gray;
+    
+}
+
+.o5{
+    background: olive;
+    padding: 8px;
+    width: 40%; 
+    text-transform: uppercase;
+    background: gray;
+   
+}
+
+.box7{
+    border: 1px ;
+    background-color: #000;
+    width: 8%;
+    position: relative;
+    bottom: 660px;
+    left: 91%;
+    
+    
+
+}
+
+
+button{
+    cursor: pointer;
+}
+.s1{
+    padding: 5px;
+    width: 5%; 
+    padding: 8px;
+}
+
+p{
+    border: 1px black;
+    border-style: solid;
+    background: gray;
+    color: white;
+    width: 30%;
+    margin-left: 49px;
+    font-size: 20px;
+    
+}
+
+.tr{
+    position: relative;
+    bottom: 600px;
+}
+
+.m{
+    border: 1px black;
+    border-style: solid;
+    background: black;
+    color: blue;
+    width: 15%;
+    margin-left: 49px;
+    padding: 8px;
+    font-size: 20px;
+}
+
+.map{
+    position: relative;
+    bottom: 700px;
+    left: 79%;
+
+}
+
+span{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+   
+}
+
+.l{
+    display: inline;
+    
+}
+
+.last{
+    border: 2px hidden;
+    background: grey;
+    position: relative;
+    bottom: 700px;
+    left: 48px;
+    width: 30%;
+}
+
+.v{
+    font-size: 33px;
+    padding-right: 20px;
+    background-color: gold;
+}
+
+
+
+.start{
+    border: 2px ;
+    position: relative;
+    bottom: 750px;
+    left: 83%;
+    width: 30%;
+}
+
+.ff{
+    width: 200px;
+    height: 120px;
+}
+
+.logo{
+    border: 1px ;
+    width: 200px;
+    position: relative;
+    bottom: 205%;
+    left: 50%;
+
+}
+
+.man{
+    width: 200px;
+}
+
+.full{
+    position: relative;
+    bottom: 1350px;
+    left: 580px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
